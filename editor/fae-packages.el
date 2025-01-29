@@ -1,0 +1,6 @@
+(add-to-list 'load-path "~/.emacs.d/editor/packages")
+(require 'fae-completion)
+(require 'fae-flycheck)
+(require 'fae-package)
+(require 'fae-minibuffer)
+(provide 'fae-packages)
