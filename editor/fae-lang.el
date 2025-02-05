@@ -6,6 +6,6 @@
 (require 'fae-haskell) ;; Basic Haskell support
 (require 'fae-nix) ;; Basic Nix support
 (require 'fae-rust) ;; Basic Rust support
-
+(require 'fae-org)
 (provide 'fae-lang)
 ;;; fae-lang.el ends here
